@@ -31,14 +31,14 @@
 ### ✅ To-Do List Web Application
 A full-stack web app to manage daily tasks with add/edit/delete features. Includes task filtering, persistence, and responsive design.  
 **Tech stack:** HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL  
-➡️ [View on GitHub](https://github.com/Bruno025/todo-list-app) <!-- Remplace le lien par ton dépôt -->
+➡️ [View on GitHub](https://github.com/Bruno025/To-Do-List)
 
 ---
 
 ### 💸 Personal Expense Tracker
 A financial tracking tool to help users monitor their expenses. Supports category filtering and data visualization.  
 **Tech stack:** Django, HTML, CSS, Chart.js, SQLite / PostgreSQL  
-➡️ [View on GitHub](https://github.com/Bruno025/expense-tracker) <!-- Remplace le lien par ton dépôt -->
+➡️ [View on GitHub](https://github.com/Bruno025/Suivi-depenses)
 
 ---
 
@@ -48,11 +48,6 @@ University project: Android mobile app connected to a MongoDB backend. Developed
 ➡️ Repository coming soon
 
 ---
-
-### 🟣 Personal Portfolio Website
-A simple and responsive portfolio built to showcase my skills, experience, and projects.  
-**Tech stack:** HTML, CSS, Bootstrap  
-➡️ [Visit portfolio](https://bruno025.github.io)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno025&show_icons=true&locale=en&layout=compact" alt="bruno025" /></p>
