@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brunel</h1>
-<h3 align="center">Computer engineering student passionate about software development and cloud technologies.</h3>
+<h3 align="center">Étudiant en génie informatique passionnée par le développement de logiciels et les technologies infonuagiques.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bruno025&label=Profile%20views&color=0e75b6&style=flat" alt="bruno025" /> </p>
 
